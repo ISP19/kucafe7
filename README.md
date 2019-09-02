@@ -6,5 +6,5 @@
 
 | Name   | Role  | Github   |
 |--------|-------|----------|
-| Fatalai Jon | Team Lead, breakfast menu | fatalaijon |
+| Kritpawit Soongswang | Team Lead, breakfast menu | Kornkritpawit |
 | Jim Brucker | lunch menu | jbrucker |
