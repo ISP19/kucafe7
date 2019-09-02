@@ -7,6 +7,8 @@
 | Name                    | Role                      | Github        |
 | ----------------------- | ------------------------- | ------------- |
 | Kritpawit Soongswang    | Team Lead, breakfast menu | Kornkritpawit |
-| Apipark Withedvorrakit  | lunch menu                | Parkkung      |
+| Apipark Withedvorrakit  | Bar menu                | Parkkung      |
 | Natthaphon Rakprakobkij | Dinner menu               | mark47546     |
 | Thitaseth Turongpun     | Dessert menu              | bbestthi      |
+| Ingkharat Jangchud      | Beverage menu             | ingkharatj    |
+| Chatchapong Chumpada      |Lunch menu               |ChatchapongC|
