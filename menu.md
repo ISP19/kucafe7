@@ -1,16 +1,9 @@
-## Menu
-
-| Item                                   | Price |
-|:---------------------------------------|------:|
-| nothing yet                            |  0.0  |
-
 ## Beverages
 
-| Item                                   | Price |
-|:---------------------------------------|------:|
-| nothing yet                            |  0.0  |
-
-
----
-
-We accept PromptPay, KUPay, Alipay, and cash. No credit cards.
+| Description                | Price (Bt) |
+|:---------------------------|-----:|
+| Drinking Water             |  10  |
+| Orange Juice               |  20  |
+| Hot Coffee                 |  30  |
+| Ice Coffee                 |  35  |
+| Green Tea                  |  25  |
