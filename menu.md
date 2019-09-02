@@ -51,7 +51,7 @@
 ---
 
 
-| Item                                   | Price(Baht) |
+| Item                                   | Price (Baht) |
 |:---------------------------------------|------:|
 | creme brulee cheesecake                | 120.0 |
 | orange cake                            | 100.0 |
