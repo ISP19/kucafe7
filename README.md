@@ -7,4 +7,4 @@
 | Name   | Role  | Github   |
 |--------|-------|----------|
 | Kritpawit Soongswang | Team Lead, breakfast menu | Kornkritpawit |
-| Jim Brucker | lunch menu | jbrucker |
+| Apipark Withedvorrakit | lunch menu | Parkkung |
