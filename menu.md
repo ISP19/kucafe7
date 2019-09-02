@@ -1,15 +1,16 @@
-## Menu
+## Lunch Menu
 
-| Item                                   | Price |
+| Item                                   | Price(Baht) |
 |:---------------------------------------|------:|
-| nothing yet                            |  0.0  |
-
-## Beverages
-
-| Item                                   | Price |
-|:---------------------------------------|------:|
-| nothing yet                            |  0.0  |
-
+| Red or Green Curry                            | 40.0 |
+| Pad Gra Pow                            |  40.0  |
+| Pad Khing                            |  30.0  |
+| Spicy Tofu                            |  40.0  |
+| Spicy Fried Rice                           |  40.0  |
+| Kee-Mao Noodles                            |  50.0  |
+| Seafood Noodle Soup                            |  50.0  |
+| Tom Yum Chicken                           |80.0|
+|Rice                                       | 10.0|
 
 ---
 
