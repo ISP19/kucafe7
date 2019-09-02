@@ -47,7 +47,7 @@
 | NZ Mussels in Italian tomato sauce | 350.0 |
 ---
 
-##Dessert menu
+## Dessert menu
 | Item                                   | Price |
 |:---------------------------------------|------:|
 | creme brulee cheesecake                | 120.0 |
