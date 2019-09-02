@@ -4,11 +4,16 @@
 |:---------------------------------------|------:|
 | nothing yet                            |  0.0  |
 
-## Beverages
+## Breakfast
 
 | Item                                   | Price |
 |:---------------------------------------|------:|
-| nothing yet                            |  0.0  |
+| Omlet |  20  |
+| Buttermilk Pancakes | 50 |
+| Toasted Bagel with Smoked Salmon | 100 |
+| Briars Breakfast Pizza |  300  |
+| Hot Oatmeal |  200 |
+| Fresh Fruit Plate |  120  |
 
 
 ---
