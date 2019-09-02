@@ -9,9 +9,21 @@
 | Toasted Bagel with Smoked Salmon | 100 |
 | Briars Breakfast Pizza |  300  |
 | Hot Oatmeal |  200 |
-| Fresh Fruit Plate |  120  |
-=======
-
+| Fresh Fruit Plate |  120  |s
+---
+## Lunch menu
+| Item                                   | Price |
+|:---------------------------------------|------:|
+| Red or Green Curry                            | 40.0 |
+| Pad Gra Pow                            |  40.0  |
+| Pad Khing                            |  30.0  |
+| Spicy Tofu                            |  40.0  |
+| Spicy Fried Rice                           |  40.0  |
+| Kee-Mao Noodles                            |  50.0  |
+| Seafood Noodle Soup                            |  50.0  |
+| Tom Yum Chicken                           |80.0|
+|Rice                                       | 10.0|
+---
 ## Dinner Menu
 
 | Item                               | Price |
@@ -33,25 +45,10 @@
 | Garlic bread                       | 150.0 |
 | Italian Sausage with pizzabread    | 300.0 |
 | NZ Mussels in Italian tomato sauce | 350.0 |
-=====
-
-
-## Dessert menu
-=======
-## Lunch Menu
-| Item                                   | Price |
-|:---------------------------------------|------:|
-| Hoegarden                              | 190.0 |
-| Hoegarden Rose                         | 190.0 |
-| IPA                                    | 180.0 |
-| Double IPA                             | 200.0 |
-| Lager                                  | 180.0 |
-| Ale                                    | 180.0 |
-| Stout                                  | 180.0 |t 
 ---
 
-
-| Item                                   | Price (Baht) |
+##Dessert menu
+| Item                                   | Price |
 |:---------------------------------------|------:|
 | creme brulee cheesecake                | 120.0 |
 | orange cake                            | 100.0 |
@@ -71,22 +68,18 @@
 | vanilla waffle                         | 240.0 |
 | banana pancake                         | 245.0 |
 | tiramisu                               | 175.0 |
+---
 
-
-=======
 ## Beverages
-
-| Description                | Price (Bt) |
+| Item                | Price (Bt) |
 |:---------------------------|-----:|
 | Drinking Water             |  10  |
 | Orange Juice               |  20  |
 | Hot Coffee                 |  30  |
 | Ice Coffee                 |  35  |
 | Green Tea                  |  25  |
-========
+---
 
-
-=======
 ## Cocktail Menu
 
 | Item                                   | Price |
@@ -100,19 +93,18 @@
 | Bloodymary                             | 250.0 |
 | Blue Lagoon                            | 250.0 |
 | French Martini                         | 250.0 |
-
+---
 ## Beer Menu
-=======
-| Red or Green Curry                            | 40.0 |
-| Pad Gra Pow                            |  40.0  |
-| Pad Khing                            |  30.0  |
-| Spicy Tofu                            |  40.0  |
-| Spicy Fried Rice                           |  40.0  |
-| Kee-Mao Noodles                            |  50.0  |
-| Seafood Noodle Soup                            |  50.0  |
-| Tom Yum Chicken                           |80.0|
-|Rice                                       | 10.0|
-
+| Item                                   | Price |
+|:---------------------------------------|------:|
+| Hoegarden                              | 190.0 |
+| Hoegarden Rose                         | 190.0 |
+| IPA                                    | 180.0 |
+| Double IPA                             | 200.0 |
+| Lager                                  | 180.0 |
+| Ale                                    | 180.0 |
+| Stout                                  | 180.0 |
+---
 
 We accept PromptPay, KUPay, Alipay, and cash. No credit cards.
 
