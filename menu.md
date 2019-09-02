@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 ## Breakfast
 
 | Item                                   | Price |
@@ -33,12 +32,11 @@
 | Garlic bread                       | 150.0 |
 | Italian Sausage with pizzabread    | 300.0 |
 | NZ Mussels in Italian tomato sauce | 350.0 |
-
+=====
 
 
 ## Dessert menu
 
-<<<<<<< HEAD
 | Item                                   | Price |
 |:---------------------------------------|------:|
 | creme brulee cheesecake                | 120.0 |
@@ -60,13 +58,7 @@
 | banana pancake                         | 245.0 |
 | tiramisu                               | 175.0 |
 
->>>>>>> dinner
->>>>>>> dinner
 
-
----
-
-We accept PromptPay, KUPay, Alipay, and cash. No credit cards.
 =======
 ## Beverages
 
@@ -77,4 +69,6 @@ We accept PromptPay, KUPay, Alipay, and cash. No credit cards.
 | Hot Coffee                 |  30  |
 | Ice Coffee                 |  35  |
 | Green Tea                  |  25  |
->>>>>>> beverage
+========
+We accept PromptPay, KUPay, Alipay, and cash. No credit cards.
+
