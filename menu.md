@@ -1,6 +1,6 @@
 ## Lunch Menu
 
-| Item                                   | Price(Baht) |
+| Item                                   | Price (Baht) |
 |:---------------------------------------|------:|
 | Red or Green Curry                            | 40.0 |
 | Pad Gra Pow                            |  40.0  |
